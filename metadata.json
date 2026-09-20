@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A modern, responsive weather intelligence dashboard providing real-time forecasts, hourly trends, 7-day outlooks, and dynamic daily insights using Open-Meteo.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
